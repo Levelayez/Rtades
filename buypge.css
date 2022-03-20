@@ -1,4 +1,43 @@
-.ByB {
+
+.B2 {
+  position: absolute;
+  top: 150px;
+  left: 255px;
+
+  background-color: rgb(53, 50, 54)n;
+  border:5px solid rgba(110, 110, 110, 0.24);
+  height: 250px;
+  width: 200px;
+  size: 30px;
+  font-size: 40px;
+  border-radius: .25em;
+}
+
+.Bt2 {
+  position: absolute;
+  top: 325px;
+  left: 280px;
+  background-color:  rgb(110, 110, 110, 0.24);
+  border-radius: .25em;
+  height: 50px;
+  width: 150px;
+  font-size: 30px;
+  border: 2px solid rgb(67, 255, 10)
+}
+
+.Bt1 {
+  position: absolute;
+  top: 325px;
+  left: 115px;
+  background-color:  rgb(110, 110, 110, 0.24);
+  border-radius: .25em;
+  height: 50px;
+  width: 150px;
+  font-size: 30px;
+  border: 2px solid rgb(67, 255, 10)
+}
+
+.B1 {
     position: absolute;
     top: 150px;
     left: 30px;
@@ -12,7 +51,7 @@
     border-radius: .25em;
     }
 
-.Btest {
+.Bt1 {
     position: absolute;
     top: 325px;
     left: 50px;
